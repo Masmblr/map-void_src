@@ -24,9 +24,9 @@ Map Description:
 [<img src="meta/preview_levelshots/12.jpg" width="250"/>](meta/preview_levelshots/12.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |  
-| 1.0     | 21/03/2018  | final | [💾](https://github.com/Masmblr/map-Void_src/releases/tag/v1.0) |
+| Version: | Date:        | Status: |    
+| ------- | ------------- | ------: |
+| 1.0     | 21/03/2018  | release |
 
 ## How-To
 **Binary**:
@@ -157,7 +157,7 @@ textures\void\material_metal_04.jpg <sup>[1](#Credit-1)</sup>
 
 ### Credit-1
 
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: Attribution-NonCommercial-ShareAlike 4.0 International \
 (See "LICENSE" file for more Informations.)
